@@ -14,7 +14,7 @@
 ※fork先：個人アカウントのリポジトリ
 
 ## Git：commit、Push、Pull Request
-**recursion_practice**ではGitのcommit、Push、Pull Requestについて学びます。
+**このカリキュラム**ではGitのcommit、Push、Pull Requestについて学びます。
 これらはチーム開発を行う上で必要不可欠なGitのとてもよく使う機能です。
 しかし、チームや案件先により、これらの運用方法が異なる場合があります。
 したがって、ここでは**基本的な機能**や**これらのやり方**を説明します。
