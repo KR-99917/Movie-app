@@ -100,13 +100,13 @@ Pushを実行すると、リモートリポジトリに自分の変更履歴が�
   - コードの変更に対する理由: なぜ特定のアプローチを選んだのか、その理由を説明します。
 
 
-![](Recursion_Document/img/pull-request_1.png)
-![](Recursion_Document/img/pull-request_2.png)
-![](Recursion_Document/img/pull-request_3.png)
+![](99-説明用画像/pull-request_1.png)
+![](99-説明用画像/pull-request_2.png)
+![](99-説明用画像/pull-request_3.png)
 
 
 ## VSCodeの画面解説
-![](Recursion_Document/img/vscode_commit.png)
+![](99-説明用画像/vscode_commit.png)
 
 1. **エクスプローラー**タブ
    1. フォルダーやファイルの選択、閲覧・修正を行うタブ
