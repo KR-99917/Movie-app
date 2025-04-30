@@ -6,4 +6,6 @@
 <!-- この下にリンクを貼り付けてファイルを保存してください。 -->
 https://recursionist.io/dashboard/problems/submissions/985955
 <!-- この上にリンクを貼り付けてファイルを保存してください。 -->
+https://recursionist.io/share/ryota-kino/lessoncode/396/htmlRunner1　　<!-- ←ComputerBuilder>
+
 ─────────────────
