@@ -4,6 +4,8 @@
 <!-- 提出は、https://www.notion.so/1c08849c098e80618cadda6f590ed5b0?pvs=4 を参考に -->
 ─────────────────
 <!-- この下にリンクを貼り付けてファイルを保存してください。 -->
-
+https://recursionist.io/dashboard/problems/submissions/985955
 <!-- この上にリンクを貼り付けてファイルを保存してください。 -->
+https://recursionist.io/share/ryota-kino/lessoncode/396/htmlRunner1　　<!-- ←ComputerBuilder>
+
 ─────────────────
