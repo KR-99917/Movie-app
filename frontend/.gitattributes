@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+* text=auto eol=lf
+
+*.blade.php diff=html
+*.css diff=css
+*.html diff=html
+*.md diff=markdown
+*.php diff=php
+
+/.github export-ignore
+CHANGELOG.md export-ignore
+.styleci.yml export-ignore
+=======
+* text=auto
+
+/.github export-ignore
+.editorconfig export-ignore
+.gitattributes export-ignore
+.gitignore export-ignore
+.npmignore export-ignore
+.styleci.yml export-ignore
+CHANGELOG.md export-ignore
+RELEASE.md export-ignore
+>>>>>>> 85dd464 (フロントエンド)
